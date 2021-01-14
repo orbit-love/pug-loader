@@ -6,6 +6,9 @@
   "maintainers": [
     "Timothy Gu <timothygu99@gmail.com>"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "loader-utils": "^1.1.0",
     "pug-walk": "^1.0.0",
