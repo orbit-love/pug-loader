@@ -1,5 +1,9 @@
 # Change log
 
+## 2.4.1 / 2021-01-14
+
+- Update peerDependency to fix NPM error with node >= 15
+
 ## 2.3.0 / 2016-08-22
 
 - Use explicit pug-walk dependency; fixes installation on npm v2
